@@ -1,0 +1,6 @@
+.phpPgAdmin
+public/khusamov
+vendor
+vendor~
+composer.lock
+composer.phar

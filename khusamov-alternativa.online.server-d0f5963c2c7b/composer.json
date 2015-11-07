@@ -1,0 +1,22 @@
+{
+
+	"name": "khusamov/alternativa.online.server",
+	"description": "Серверная часть Альтернатива Онлайн",
+	"version": "0.1",
+	"authors": [{
+		"name": "Хусамов Сухроб",
+		"email": "khusamov@yandex.ru"
+	}],
+	
+	"require": {
+		"php": ">=5.3.3",
+		"zendframework/zendframework": "~2.4",
+		"khusamov/alternativa.online.client": "dev-master"
+	},
+	
+	"repositories": [{
+		"type": "git",
+		"url": "git@bitbucket.org:khusamov/alternativa.online.client.git"
+	}]
+
+}

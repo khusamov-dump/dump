@@ -1,0 +1,61 @@
+<?php echo $this->doctype(); ?>
+
+<html lang="ru">
+	
+	<head>
+		
+		<?php echo $this->headTitle("Альтернатива Онлайн")->setSeparator(' - ')->setAutoEscape(false) ?>
+		
+		<!-- Meta -->
+		
+		<meta charset="utf-8">
+		
+		<?php 
+			echo $this->headMeta()
+				->appendName('viewport', 'width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no')
+				->appendHttpEquiv('X-UA-Compatible', 'IE=edge')
+		?>
+		
+		<!-- Le styles -->
+		
+		<?php echo $this->headLink(array(
+				'rel' => 'shortcut icon', 
+				'type' => 'image/vnd.microsoft.icon', 
+				'href' => $this->basePath() . '/img/favicon.ico'
+			))
+			->appendStylesheet($this->basePath('khusamov/alternativa.online.client/extras/pace/themes/blue/pace-theme-center-simple.css'))
+			->appendStylesheet('http://localhost/ext-5.1.0/packages/ext-theme-crisp/build/resources/ext-theme-crisp-all.css')
+		?>
+		
+		<?php
+			echo $this->headStyle()
+				->appendStyle(".pace { height: 15px; }")
+				->appendStyle(".x-form-text { display: inherit; }"); // Убрать когда выйдет Хром версии 44
+		?>
+		
+		<!-- Scripts -->
+		
+		<?php 
+		
+			$folderApp = $this->basePath('khusamov/alternativa.online.client/app');
+		
+			echo $this->headScript()
+				->appendScript("
+					window.paceOptions = {
+						restartOnPushState:  false,
+						restartOnRequestAfter: false
+					};
+				")
+				->appendFile($this->basePath('khusamov/alternativa.online.client/extras/pace/pace.js'))
+				->appendFile('http://localhost/ext-5.1.0/build/ext-all-debug.js')
+				->appendFile('http://localhost/ext-5.1.0/packages/ext-locale/build/ext-locale-ru-debug.js')
+				->appendScript("Ext.Loader.setPath('Alternativa', '{$folderApp}');")
+				->appendFile($this->basePath('khusamov/alternativa.online.client/app.js'));
+				
+		?>
+	
+	</head>
+	
+	<body></body>
+
+</html>

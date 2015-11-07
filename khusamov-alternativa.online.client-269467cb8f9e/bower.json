@@ -1,0 +1,29 @@
+{
+	
+	"name": "khusamov-alternativa-online-client",
+	"description": "Клиентская часть Альтернатива Онлайн",
+	"authors": ["Khusamov Sukhrob <khusamov@yandex.ru> (http://khusamov.ru/)"],
+	
+	"license": "GPL",
+	"version": "0.0.1",
+	"keywords": [],
+	"homepage": "https://bitbucket.org/khusamov/zevs.client",
+	
+	"main": [
+		"app.js",
+		"packages/style.css"
+	],
+	
+	"ignore": [
+		"**/.*",
+		"node_modules",
+		"bower_components",
+		"test",
+		"tests"
+	],
+	
+	"dependencies": {
+		"khusamov-extjs": "git@bitbucket.org:khusamov/extjs.git"
+	}
+	
+}

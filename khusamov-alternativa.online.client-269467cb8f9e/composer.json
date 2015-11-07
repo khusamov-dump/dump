@@ -1,0 +1,9 @@
+{
+	"name": "khusamov/alternativa.online.client",
+	"description": "Клиентская часть Альтернатива Онлайн",
+	"version": "0.1",
+	"authors": [{
+		"name": "Хусамов Сухроб",
+		"email": "khusamov@yandex.ru"
+	}]
+}
