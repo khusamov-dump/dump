@@ -1,0 +1,46 @@
+<?php echo $this->doctype(); ?>
+<html lang="ru">
+
+  <head>
+      
+    <?php $title = $title ? $title : "Альтернатива Онлайн 2014"; ?>
+    <?php echo $this->headTitle($title)->setSeparator(" - ")->setAutoEscape(false); ?>
+
+    <meta charset="utf-8">
+    <?php echo $this->headMeta()->appendName("viewport", "width=device-width, initial-scale=1.0"); ?>
+    
+    <?php $basepath = $this->basePath(); ?>
+
+    <!-- Le styles -->
+    <?php 
+        echo 
+            $this
+                ->headLink(array(
+                    "rel" => "shortcut icon", 
+                    "type" => "image/vnd.microsoft.icon", 
+                    "href" => "$basepath/js/alternativa/online/images/favicon.ico"
+                ))
+                ->appendStylesheet("$basepath/js/extjs/4.2.1/resources/css/ext-all-gray.css") 
+                ->appendStylesheet("$basepath/js/khusamov/extjs.hacks/css/all.css")
+                ->appendStylesheet("$basepath/js/khusamov/extjs.hacks/css/gray.css")
+                ->appendStylesheet("$basepath/css/khusamov/icons/icons.css"); 
+    ?>
+
+    <!-- Scripts -->
+    <?php 
+        echo 
+            $this
+                ->headScript()
+                    ->appendFile("$basepath/js/extjs/4.2.1/ext-all.js")
+                    ->appendFile("$basepath/js/extjs/4.2.1/locale/ext-lang-ru.js")
+                    ->appendFile("$basepath/js/khusamov/extjs.hacks/lang/ru.js")
+                    ->appendFile("$basepath/js/khusamov/extjs.hacks/hacks.js")
+                    ->appendFile("$basepath/js/khusamov/alternativa.online/app.js");
+    ?>
+
+  </head>
+
+  <body></body>
+  
+</html>
+
