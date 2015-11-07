@@ -1,0 +1,327 @@
+{
+	"materials": [{
+		"Material_id": 1,
+		"Material_Title": "Пиния Авола Шампань",
+		"Material_Marking": "H1476 ST22 ",
+		"Material_Title_Color": "white",
+		"Material_Category_Title": "ЛДСП Классика",
+		"Material_Color": "",
+		"Material_Texture_Url": "/images/sites/norkpalm.ru/khext/1.00/samples/sandbox/carousel/materials/image01.jpg"
+	}, {
+		"Material_id": 2,
+		"Material_Title": "Вишня Венеция светлая",
+		"Material_Marking": "H3660 ST9",
+		"Material_Title_Color": "white",
+		"Material_Category_Title": "ЛДСП Классика",
+		"Material_Color": "",
+		"Material_Texture_Url": "/images/sites/norkpalm.ru/khext/1.00/samples/sandbox/carousel/materials/image02.jpg"
+	}, {
+		"Material_id": 3,
+		"Material_Title": "Пихта Брамберг",
+		"Material_Marking": "H1487 ST22",
+		"Material_Title_Color": "white",
+		"Material_Category_Title": "ЛДСП Классика",
+		"Material_Color": "",
+		"Material_Texture_Url": "/images/sites/norkpalm.ru/khext/1.00/samples/sandbox/carousel/materials/image03.jpg"
+	}, {
+		"Material_id": 4,
+		"Material_Title": "Акация Лэйклэнд светлая",
+		"Material_Marking": "H1277 ST9",
+		"Material_Title_Color": "white",
+		"Material_Category_Title": "ЛДСП Классика",
+		"Material_Color": "",
+		"Material_Texture_Url": "/images/sites/norkpalm.ru/khext/1.00/samples/sandbox/carousel/materials/image04.jpg"
+	}, {
+		"Material_id": 5,
+		"Material_Title": "Вишня",
+		"Material_Marking": "H1706 ST15",
+		"Material_Title_Color": "white",
+		"Material_Category_Title": "ЛДСП Классика",
+		"Material_Color": "",
+		"Material_Texture_Url": "/images/sites/norkpalm.ru/khext/1.00/samples/sandbox/carousel/materials/image05.jpg"
+	}, {
+		"Material_id": 6,
+		"Material_Title": "Клён горный натуральный",
+		"Material_Marking": "H1887 ST9",
+		"Material_Title_Color": "#AC691B",
+		"Material_Category_Title": "ЛДСП Классика",
+		"Material_Color": "",
+		"Material_Texture_Url": "/images/sites/norkpalm.ru/khext/1.00/samples/sandbox/carousel/materials/image06.jpg"
+	}, {
+		"Material_id": 7,
+		"Material_Title": "Сосна Авола шампань",
+		"Material_Marking": "H1476 ST22",
+		"Material_Title_Color": "white",
+		"Material_Category_Title": "ЛДСП Классика",
+		"Material_Color": "",
+		"Material_Texture_Url": "/images/sites/norkpalm.ru/khext/1.00/samples/sandbox/carousel/materials/image07.jpg"
+	}, {
+		"Material_id": 8,
+		"Material_Title": "Ольха",
+		"Material_Marking": "H1502 ST15",
+		"Material_Title_Color": "white",
+		"Material_Category_Title": "ЛДСП Классика",
+		"Material_Color": "",
+		"Material_Texture_Url": "/images/sites/norkpalm.ru/khext/1.00/samples/sandbox/carousel/materials/image08.jpg"
+	}, {
+		"Material_id": 9,
+		"Material_Title": "Дуб натуральный светлый",
+		"Material_Marking": "H3389 ST11",
+		"Material_Title_Color": "white",
+		"Material_Category_Title": "ЛДСП Классика",
+		"Material_Color": "",
+		"Material_Texture_Url": "/images/sites/norkpalm.ru/khext/1.00/samples/sandbox/carousel/materials/image09.jpg"
+	}, {
+		"Material_id": 10,
+		"Material_Title": "Дуб Шато антрацит",
+		"Material_Marking": "H3306 ST9",
+		"Material_Title_Color": "white",
+		"Material_Category_Title": "ЛДСП Классика",
+		"Material_Color": "",
+		"Material_Texture_Url": "/images/sites/norkpalm.ru/khext/1.00/samples/sandbox/carousel/materials/image10.jpg"
+	}, {
+		"Material_id": 11,
+		"Material_Title": "Бук Тауэрн натур",
+		"Material_Marking": "H3911 ST9",
+		"Material_Title_Color": "white",
+		"Material_Category_Title": "ЛДСП Классика",
+		"Material_Color": "",
+		"Material_Texture_Url": "/images/sites/norkpalm.ru/khext/1.00/samples/sandbox/carousel/materials/image11.jpg"	
+	}, {
+		"Material_id": 12,
+		"Material_Title": "Орех Аида табак",
+		"Material_Marking": "H3704 ST15",
+		"Material_Title_Color": "white",
+		"Material_Category_Title": "ЛДСП Классика",
+		"Material_Color": "",
+		"Material_Texture_Url": "/images/sites/norkpalm.ru/khext/1.00/samples/sandbox/carousel/materials/image12.jpg"
+	}, {
+		"Material_id": 13,
+		"Material_Title": "Вишня Венеция натурально светлая",
+		"Material_Marking": "H3662 ST9",
+		"Material_Title_Color": "white",
+		"Material_Category_Title": "ЛДСП Классика",
+		"Material_Color": "",
+		"Material_Texture_Url": "/images/sites/norkpalm.ru/khext/1.00/samples/sandbox/carousel/materials/image13.jpg"
+	}, {
+		"Material_id": 14,
+		"Material_Title": "Бук Бавария",
+		"Material_Marking": "H1511 ST15",
+		"Material_Title_Color": "white",
+		"Material_Category_Title": "ЛДСП Классика",
+		"Material_Color": "",
+		"Material_Texture_Url": "/images/sites/norkpalm.ru/khext/1.00/samples/sandbox/carousel/materials/image14.jpg"
+	}, {
+		"Material_id": 15,
+		"Material_Title": "Бук Эльмау",
+		"Material_Marking": "H1582 ST15",
+		"Material_Title_Color": "white",
+		"Material_Category_Title": "ЛДСП Классика",
+		"Material_Color": "",
+		"Material_Texture_Url": "/images/sites/norkpalm.ru/khext/1.00/samples/sandbox/carousel/materials/image15.jpg"
+	}, {
+		"Material_id": 16,
+		"Material_Title": "Кальвадос красно-коричневый",
+		"Material_Marking": "H1951 ST15",
+		"Material_Title_Color": "white",
+		"Material_Category_Title": "ЛДСП Классика",
+		"Material_Color": "",
+		"Material_Texture_Url": "/images/sites/norkpalm.ru/khext/1.00/samples/sandbox/carousel/materials/image16.jpg"
+	}, {
+		"Material_id": 17,
+		"Material_Title": "Канадский клён кремовый",
+		"Material_Marking": "H1867 ST9",
+		"Material_Title_Color": "#AC691B",
+		"Material_Category_Title": "ЛДСП Классика",
+		"Material_Color": "",
+		"Material_Texture_Url": "/images/sites/norkpalm.ru/khext/1.00/samples/sandbox/carousel/materials/image17.jpg"
+	}, {
+		"Material_id": 18,
+		"Material_Title": "Орех Дижон натуральный",
+		"Material_Marking": "H3734 ST9",
+		"Material_Title_Color": "white",
+		"Material_Category_Title": "ЛДСП Классика",
+		"Material_Color": "",
+		"Material_Texture_Url": "/images/sites/norkpalm.ru/khext/1.00/samples/sandbox/carousel/materials/image18.jpg"
+	}, {
+		"Material_id": 19,
+		"Material_Title": "Сьерра Махагон",
+		"Material_Marking": "H3080 ST15",
+		"Material_Title_Color": "white",
+		"Material_Category_Title": "ЛДСП Классика",
+		"Material_Color": "",
+		"Material_Texture_Url": "/images/sites/norkpalm.ru/khext/1.00/samples/sandbox/carousel/materials/image19.jpg"
+		
+		
+		
+		
+	}, {
+		"Material_id": 20,
+		"Material_Title": "Дуб Шато антрацит",
+		"Material_Marking": "H3306 ST9",
+		"Material_Title_Color": "white",
+		"Material_Category_Title": "ЛДСП Модерн",
+		"Material_Color": "",
+		"Material_Texture_Url": "/images/sites/norkpalm.ru/khext/1.00/samples/sandbox/carousel/materials/image10.jpg"
+	}, {
+		"Material_id": 21,
+		"Material_Title": "Бук Тауэрн натур",
+		"Material_Marking": "H3911 ST9",
+		"Material_Title_Color": "white",
+		"Material_Category_Title": "ЛДСП Модерн",
+		"Material_Color": "",
+		"Material_Texture_Url": "/images/sites/norkpalm.ru/khext/1.00/samples/sandbox/carousel/materials/image11.jpg"
+	}, {
+		"Material_id": 22,
+		"Material_Title": "Орех Аида табак",
+		"Material_Marking": "H3704 ST15",
+		"Material_Title_Color": "white",
+		"Material_Category_Title": "ЛДСП Модерн",
+		"Material_Color": "",
+		"Material_Texture_Url": "/images/sites/norkpalm.ru/khext/1.00/samples/sandbox/carousel/materials/image12.jpg"
+	}, {
+		"Material_id": 23,
+		"Material_Title": "Вишня Венеция натурально светлая",
+		"Material_Marking": "H3662 ST9",
+		"Material_Title_Color": "white",
+		"Material_Category_Title": "ЛДСП Модерн",
+		"Material_Color": "",
+		"Material_Texture_Url": "/images/sites/norkpalm.ru/khext/1.00/samples/sandbox/carousel/materials/image13.jpg"
+	}, {
+		"Material_id": 24,
+		"Material_Title": "Бук Бавария",
+		"Material_Marking": "H1511 ST15",
+		"Material_Title_Color": "white",
+		"Material_Category_Title": "ЛДСП Модерн",
+		"Material_Color": "",
+		"Material_Texture_Url": "/images/sites/norkpalm.ru/khext/1.00/samples/sandbox/carousel/materials/image14.jpg"
+	}, {
+		"Material_id": 25,
+		"Material_Title": "Бук Эльмау",
+		"Material_Marking": "H1582 ST15",
+		"Material_Title_Color": "white",
+		"Material_Category_Title": "ЛДСП Модерн",
+		"Material_Color": "",
+		"Material_Texture_Url": "/images/sites/norkpalm.ru/khext/1.00/samples/sandbox/carousel/materials/image15.jpg"
+	}, {
+		"Material_id": 26,
+		"Material_Title": "Кальвадос красно-коричневый",
+		"Material_Marking": "H1951 ST15",
+		"Material_Title_Color": "white",
+		"Material_Category_Title": "ЛДСП Модерн",
+		"Material_Color": "",
+		"Material_Texture_Url": "/images/sites/norkpalm.ru/khext/1.00/samples/sandbox/carousel/materials/image16.jpg"
+	}, {
+		"Material_id": 27,
+		"Material_Title": "Канадский клён кремовый",
+		"Material_Marking": "H1867 ST9",
+		"Material_Title_Color": "#AC691B",
+		"Material_Category_Title": "ЛДСП Модерн",
+		"Material_Color": "",
+		"Material_Texture_Url": "/images/sites/norkpalm.ru/khext/1.00/samples/sandbox/carousel/materials/image17.jpg"
+	}, {
+		"Material_id": 28,
+		"Material_Title": "Орех Дижон натуральный",
+		"Material_Marking": "H3734 ST9",
+		"Material_Title_Color": "white",
+		"Material_Category_Title": "ЛДСП Модерн",
+		"Material_Color": "",
+		"Material_Texture_Url": "/images/sites/norkpalm.ru/khext/1.00/samples/sandbox/carousel/materials/image18.jpg"
+	}, {
+		"Material_id": 29,
+		"Material_Title": "Сьерра Махагон",
+		"Material_Marking": "H3080 ST15",
+		"Material_Title_Color": "white",
+		"Material_Category_Title": "ЛДСП Модерн",
+		"Material_Color": "",
+		"Material_Texture_Url": "/images/sites/norkpalm.ru/khext/1.00/samples/sandbox/carousel/materials/image19.jpg"
+	}, {
+		"Material_id": 40,
+		"Material_Title": "Beige vert",
+		"Material_Marking": "",
+		"Material_Title_Color": "white",
+		"Material_Category_Title": "Пленка Oracal",
+		"Material_Color": "#ccc188",
+		"Material_Texture_Url": ""
+	}, {
+		"Material_id": 41,
+		"Material_Title": "Beige",
+		"Material_Marking": "",
+		"Material_Title_Color": "white",
+		"Material_Category_Title": "Пленка Oracal",
+		"Material_Color": "#ceb487",
+		"Material_Texture_Url": ""
+	}, {
+		"Material_id": 42,
+		"Material_Title": "Jaune Sable",
+		"Material_Marking": "",
+		"Material_Title_Color": "white",
+		"Material_Category_Title": "Пленка Oracal",
+		"Material_Color": "#d0b173",
+		"Material_Texture_Url": ""
+	}, {
+		"Material_id": 43,
+		"Material_Title": "Jaune signalisation",
+		"Material_Marking": "",
+		"Material_Title_Color": "white",
+		"Material_Category_Title": "Пленка Oracal",
+		"Material_Color": "#f2ad00",
+		"Material_Texture_Url": ""
+	}, {
+		"Material_id": 44,
+		"Material_Title": "Jaune d'Or",
+		"Material_Marking": "",
+		"Material_Title_Color": "white",
+		"Material_Category_Title": "Пленка Oracal",
+		"Material_Color": "#e4a700",
+		"Material_Texture_Url": ""
+	}, {
+		"Material_id": 45,
+		"Material_Title": "Beige brun",
+		"Material_Marking": "",
+		"Material_Title_Color": "white",
+		"Material_Category_Title": "Пленка Oracal",
+		"Material_Color": "#af8552",
+		"Material_Texture_Url": ""
+	}, {
+		"Material_id": 46,
+		"Material_Title": "Perl white",
+		"Material_Marking": "",
+		"Material_Title_Color": "white",
+		"Material_Category_Title": "Пленка Oracal",
+		"Material_Color": "#e5dfcc",
+		"Material_Texture_Url": ""
+	}, {
+		"Material_id": 47,
+		"Material_Title": "Ivory",
+		"Material_Marking": "",
+		"Material_Title_Color": "white",
+		"Material_Category_Title": "Пленка Oracal",
+		"Material_Color": "#dfcea1",
+		"Material_Texture_Url": ""
+	}, {
+		"Material_id": 48,
+		"Material_Title": "Sulphur yellow",
+		"Material_Marking": "",
+		"Material_Title_Color": "white",
+		"Material_Category_Title": "Пленка Oracal",
+		"Material_Color": "#ecea41",
+		"Material_Texture_Url": ""
+	}, {
+		"Material_id": 49,
+		"Material_Title": "Orange yellow",
+		"Material_Marking": "",
+		"Material_Title_Color": "white",
+		"Material_Category_Title": "Пленка Oracal",
+		"Material_Color": "#d97604",
+		"Material_Texture_Url": ""
+	}, {
+		"Material_id": 50,
+		"Material_Title": "Blood orange",
+		"Material_Marking": "",
+		"Material_Title_Color": "white",
+		"Material_Category_Title": "Пленка Oracal",
+		"Material_Color": "#c13524",
+		"Material_Texture_Url": ""
+	}]
+}

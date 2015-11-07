@@ -1,0 +1,15 @@
+{
+    "name": "khusamov/alternativa.online",
+    "description": "Альтернатива Онлайн 2014",
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=5.3.3",
+        "zendframework/zendframework": "2.3.*",
+        "khusamov/zendframework.library": "dev-master",
+        "khusamov/extjs": "4.2.1",
+        "khusamov/extjs.hacks": "dev-master",
+        "khusamov/extjs.desktop": "dev-master",
+        "khusamov/alternativa.online.server": "dev-master",
+        "khusamov/alternativa.online.client": "dev-master"
+    }
+}

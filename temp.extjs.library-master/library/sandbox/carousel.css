@@ -1,0 +1,26 @@
+
+@CHARSET "UTF-8";
+
+/* Carousel */
+
+.khusamov-sandbox-carousel-item {
+	padding: 3px;
+}
+
+.khusamov-sandbox-carousel-item-selected,
+.khusamov-sandbox-carousel-item-hover {
+	padding: 2px;
+	border-width: 1px;
+	border-style: dashed;
+}
+
+/* Icons */
+
+.icon-arrow-left {
+	background-image: url("images/carousel/arrow_left.png");
+}
+
+.icon-arrow-right {
+	background-image: url("images/carousel/arrow_right.png");
+}
+

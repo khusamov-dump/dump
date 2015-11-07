@@ -1,0 +1,16 @@
+{
+    "name": "khusamov/extjs.desktop",
+    "description": "Библиотека для организации рабочего стола для Sencha Ext JS",
+    "type": "khusamov-library",
+    "minimum-stability": "dev",
+    "require": {
+        "khusamov/composer.installer": "1.0"
+    },
+    "authors": [{
+        "name": "Khusamov Sukhrob",
+        "email": "khusamov@yandex.ru"
+    }],
+    "extra": {
+        "install-path": "public/js/khusamov/extjs.desktop"
+    }
+}

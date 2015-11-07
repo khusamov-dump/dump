@@ -1,0 +1,16 @@
+{
+    "name": "khusamov/alternativa.online.client",
+    "description": "Альтернатива Онлайн 2014, клиентская часть",
+    "type": "khusamov-library",
+    "minimum-stability": "dev",
+    "require": {
+        "khusamov/composer.installer": "1.0"
+    },
+    "authors": [{
+        "name": "Khusamov Sukhrob",
+        "email": "khusamov@yandex.ru"
+    }],
+    "extra": {
+        "install-path": "public/js/khusamov/alternativa.online"
+    }
+}

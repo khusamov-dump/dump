@@ -1,0 +1,40 @@
+
+/**
+ * Исправление ошибок в дизайне пунктов меню.
+ */
+
+.x-menu-item-link {
+	padding-top: 3px;	
+	padding-bottom: 4px;
+}
+
+.x-menu-item-text {
+	padding-right: 9px;	
+	padding-left: 2px;
+}
+
+/**
+ * Разное
+ */
+
+.x-form-invalid-tip-body li {
+   margin-bottom: 1px;
+}
+
+.x-btn button .x-btn-icon, 
+.x-btn a .x-btn-icon {
+	background-position: center center;
+}
+
+.x-window-maximized .x-panel-header-draggable,
+.x-window-maximized .x-panel-header-draggable .x-panel-header-text,
+.x-window-maximized .x-window-header-draggable,
+.x-window-maximized .x-window-header-draggable .x-window-header-text {
+  cursor: default;
+}
+
+.x-window-maximized {
+	/* border-color: #E8E8E8; */
+	border-color: transparent;
+}
+

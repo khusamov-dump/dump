@@ -1,0 +1,159 @@
+
+/**
+ * Исправление ошибок в дизайне пунктов меню.
+ */
+
+.x-menu-item-link {
+	padding-top: 1px;	
+	padding-bottom: 2px;
+}
+
+.x-menu-item-text {
+	padding-right: 9px;	
+	padding-left: 2px;
+}
+
+/**
+ * Разное
+ */
+
+.x-form-invalid-tip-body li {
+   margin-bottom: 1px;
+}
+
+.x-btn button .x-btn-icon, 
+.x-btn a .x-btn-icon {
+	background-position: center center;
+}
+
+.x-window-maximized .x-panel-header-draggable,
+.x-window-maximized .x-panel-header-draggable .x-panel-header-text,
+.x-window-maximized .x-window-header-draggable,
+.x-window-maximized .x-window-header-draggable .x-window-header-text {
+  cursor: default;
+}
+
+.x-window-maximized {
+	/* border-color: #E8E8E8; */
+	border-color: transparent;
+}
+
+/**
+ * Мои личные корректировки стилей
+ */
+
+.sultana-menuitem-default {
+	font-weight: bold;
+}
+
+.x-column-header-align-right .x-column-header-text {
+	padding-right: 0;
+	margin-right: 0;
+}
+
+.x-tab-bar {
+	background-color: transparent;
+	background-image: none;
+}
+
+.x-tab-bar-body {
+	border-color: transparent;
+}
+
+.x-mask {
+	filter: alpha(opacity=50);
+	opacity: .5;
+	background: black;
+}
+
+.x-masked-relative .x-mask {
+	filter: alpha(opacity=50);
+	opacity: .5;
+	background: #CCCCCC;
+}
+
+.border-radius-2px {
+  -moz-border-radius-topleft: 2px;
+  -webkit-border-top-left-radius: 2px;
+  -o-border-top-left-radius: 2px;
+  -ms-border-top-left-radius: 2px;
+  -khtml-border-top-left-radius: 2px;
+  border-top-left-radius: 2px;
+  -moz-border-radius-topright: 2px;
+  -webkit-border-top-right-radius: 2px;
+  -o-border-top-right-radius: 2px;
+  -ms-border-top-right-radius: 2px;
+  -khtml-border-top-right-radius: 2px;
+  border-top-right-radius: 2px;
+  -moz-border-radius-bottomright: 2px;
+  -webkit-border-bottom-right-radius: 2px;
+  -o-border-bottom-right-radius: 2px;
+  -ms-border-bottom-right-radius: 2px;
+  -khtml-border-bottom-right-radius: 2px;
+  border-bottom-right-radius: 2px;
+  -moz-border-radius-bottomleft: 2px;
+  -webkit-border-bottom-left-radius: 2px;
+  -o-border-bottom-left-radius: 2px;
+  -ms-border-bottom-left-radius: 2px;
+  -khtml-border-bottom-left-radius: 2px;
+  border-bottom-left-radius: 2px;
+}
+
+.border-radius-2px .x-window-header-default-top {
+  -moz-border-radius-topleft: 2px;
+  -webkit-border-top-left-radius: 2px;
+  -o-border-top-left-radius: 2px;
+  -ms-border-top-left-radius: 2px;
+  -khtml-border-top-left-radius: 2px;
+  border-top-left-radius: 2px;
+  -moz-border-radius-topright: 2px;
+  -webkit-border-top-right-radius: 2px;
+  -o-border-top-right-radius: 2px;
+  -ms-border-top-right-radius: 2px;
+  -khtml-border-top-right-radius: 2px;
+  border-top-right-radius: 2px;
+}
+
+.x-window-maximized {
+  -moz-border-radius-topleft: 0px;
+  -webkit-border-top-left-radius: 0px;
+  -o-border-top-left-radius: 0px;
+  -ms-border-top-left-radius: 0px;
+  -khtml-border-top-left-radius: 0px;
+  border-top-left-radius: 0px;
+  -moz-border-radius-topright: 0px;
+  -webkit-border-top-right-radius: 0px;
+  -o-border-top-right-radius: 0px;
+  -ms-border-top-right-radius: 0px;
+  -khtml-border-top-right-radius: 0px;
+  border-top-right-radius: 0px;
+  -moz-border-radius-bottomright: 0px;
+  -webkit-border-bottom-right-radius: 0px;
+  -o-border-bottom-right-radius: 0px;
+  -ms-border-bottom-right-radius: 0px;
+  -khtml-border-bottom-right-radius: 0px;
+  border-bottom-right-radius: 0px;
+  -moz-border-radius-bottomleft: 0px;
+  -webkit-border-bottom-left-radius: 0px;
+  -o-border-bottom-left-radius: 0px;
+  -ms-border-bottom-left-radius: 0px;
+  -khtml-border-bottom-left-radius: 0px;
+  border-bottom-left-radius: 0px;
+}
+
+.x-window-maximized .x-window-header-default-top {
+  -moz-border-radius-topleft: 0px;
+  -webkit-border-top-left-radius: 0px;
+  -o-border-top-left-radius: 0px;
+  -ms-border-top-left-radius: 0px;
+  -khtml-border-top-left-radius: 0px;
+  border-top-left-radius: 0px;
+  -moz-border-radius-topright: 0px;
+  -webkit-border-top-right-radius: 0px;
+  -o-border-top-right-radius: 0px;
+  -ms-border-top-right-radius: 0px;
+  -khtml-border-top-right-radius: 0px;
+  border-top-right-radius: 0px;
+}
+
+
