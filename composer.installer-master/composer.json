@@ -1,0 +1,17 @@
+{
+    "name": "khusamov/composer.installer",
+    "description": "Мой инсталятор пакетов для composer",
+    "type": "composer-plugin",
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-0": {
+            "Khusamov": "src/"
+        }
+    },
+    "extra": {
+        "class": "Khusamov\\Composer\\Installer\\Plugin"
+    },
+    "require": {
+        "composer-plugin-api": "1.0.0"
+    }
+}
