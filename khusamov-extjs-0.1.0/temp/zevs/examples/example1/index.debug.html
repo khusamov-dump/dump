@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="ru">
+	<head>
+		<meta charset="utf-8">
+		<title>Пример 1 - Интеграция Zevs</title>
+		
+		<!--<link rel="stylesheet" href="../../../ext-5.1.0/packages/ext-theme-neptune/build/resources/ext-theme-neptune-all.css">-->
+		<link rel="stylesheet" href="http://localhost/ext-5.1.0/packages/ext-theme-neptune/build/resources/ext-theme-neptune-all.css">
+		
+		<!--<script src="../../../ext-5.1.0/build/ext-all-debug.js"></script>-->
+		<script src="http://localhost/ext-5.1.0/build/ext-all-debug.js"></script>
+		
+		<script src="../../../zevs/src/Zevs.js"></script>
+		
+		<script>
+			
+			var project = {
+				title: "Проект окна № 1",
+				param1: "Значение параметра 1"
+			};
+			
+			Ext.onReady(function() {
+				
+				var zevs = Ext.create("Zevs", {
+					renderTo: Ext.get("zevs"),
+					onRequestParam1ListValues: function(callback) {
+						callback([{
+							name: "Значение 4", 
+							value: 4
+						}, {
+							name: "Значение 5", 
+							value: 5
+						}, {
+							name: "Значение 6", 
+							value: 6
+						}]);
+					},
+					onSaveProject: function(project) {
+						console.log("onSaveProject", project);
+					}
+				});
+				
+				zevs.load(project);
+				
+			});
+			
+		</script>
+		
+		
+		
+	</head>
+		
+	<body style="padding: 50px;">
+		
+		<div id="zevs" style="width: 600px; height: 400px;"></div>
+		
+	</body>
+	
+</html>
+
+

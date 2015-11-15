@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="ru">
+	
+	<head>
+		
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+		<link rel="shortcut icon" type="image/ico" href="https://www.sencha.com/favicon.ico" />
+		
+		<!-- PACE -->
+			<link href="../../bower_components/pace/themes/blue/pace-theme-center-simple.css" rel="stylesheet" />
+			<style type="text/css">.pace { height: 15px; }</style>
+			<script>
+				window.paceOptions = {
+					restartOnPushState: false,
+					restartOnRequestAfter: false
+				};
+			</script>
+			<script src="../../bower_components/pace/pace.js"></script>
+		<!-- / PACE -->
+		
+		<!-- ace -->
+			<script src="https://cdnjs.cloudflare.com/ajax/libs/ace/1.2.0/ace.js"></script>
+			<script src="https://cdnjs.cloudflare.com/ajax/libs/ace/1.2.0/ext-static_highlight.js"></script>
+			<script src="https://cdnjs.cloudflare.com/ajax/libs/ace/1.2.0/mode-javascript.js"></script>
+			<script src="https://cdnjs.cloudflare.com/ajax/libs/ace/1.2.0/worker-javascript.js"></script>
+			<script src="https://cdnjs.cloudflare.com/ajax/libs/ace/1.2.0/theme-clouds.js"></script>
+			<script src="https://cdnjs.cloudflare.com/ajax/libs/ace/1.2.0/theme-eclipse.js"></script>
+		<!-- / ace -->
+		
+		<!-- markdown-it -->
+			<script src="../../bower_components/markdown-it/dist/markdown-it.min.js"></script>
+			<script src="../../bower_components/markdown-it-container/dist/markdown-it-container.min.js"></script>
+			<script src="https://cdn.jsdelivr.net/highlight.js/8.5.0/highlight.min.js"></script>
+			<link href="https://cdn.jsdelivr.net/highlight.js/8.5.0/styles/default.min.css" rel="stylesheet">
+		<!-- / markdown-it -->
+		
+		<!-- Sencha Ext JS -->
+			<link href="../../ext/build/packages/ext-theme-crisp/build/resources/ext-theme-crisp-all-debug.css" rel="stylesheet">
+			<script src="../../ext/build/ext-all-debug.js"></script>
+			<script src="../../ext/build/packages/sencha-charts/build/sencha-charts-debug.js"></script>
+			<script src="../../ext/build/packages/ext-locale/build/ext-locale-ru-debug.js"></script>
+			<script>Ext.Loader.setPath("Ext.ux", "../../ext/examples/ux");</script>
+		<!-- / Sencha Ext JS -->
+		
+		<!-- Убрать когда выйдет Хром версии 44 -->
+			<!-- http://javascript.ru/forum/extjs/56067-input-vniz-sekhali-vse.html -->
+			<style type="text/css">.x-form-text { display: inherit; }</style>
+		<!-- / Убрать -->
+		
+		<!-- khusamov.extjs -->
+			<script src="../../packages/local/khusamov-svg/overrides/ClassManager.js"></script>
+			<link rel="stylesheet" href="/packages/svg/style.css">
+			<script>Ext.Loader.setPath("Khusamov.svg", "../../packages/local/khusamov-svg/src");</script>
+			<script>Ext.Loader.setPath("Khusamov.dom", "../../packages/local/khusamov-dom/src");</script>
+			<script>Ext.Loader.setPath("Khusamov.browser", "../../packages/local/khusamov-browser/src");</script>
+			<script>Ext.Loader.setPath("Khusamov.text", "../../packages/local/khusamov-text/src");</script>
+		<!-- / khusamov.extjs -->
+		
+		<!-- Kitchen -->
+			<link rel="stylesheet" href="kitchen/index.css">
+			<script>window.MAIN_MENU_URL = "index.json";</script>
+			<script>Ext.Loader.setPath("Kitchen", "kitchen/app");</script>
+			<script src="kitchen/app.js"></script>
+		<!-- / Kitchen -->
+		
+	</head>
+	
+	<body></body>
+	
+</html>
+
+
